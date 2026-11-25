@@ -1,0 +1,10 @@
+# UTS Kriptografi - Requirements
+# Program ini hanya menggunakan library standar Python 3.x
+# Tidak ada dependensi eksternal yang diperlukan
+
+# Python Standard Libraries (sudah built-in):
+# - math      : untuk fungsi gcd (greatest common divisor)
+# - string    : untuk konstanta ascii_uppercase
+
+# Versi Python yang direkomendasikan:
+# Python >= 3.8
