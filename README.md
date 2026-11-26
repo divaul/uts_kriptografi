@@ -60,7 +60,7 @@ cd uts_kriptografi
 ### 2. Jalankan program
 
 ```bash
-python uts_kriptografi1.py
+python uts_kriptografi.py
 ```
 
 > Tidak perlu instalasi dependensi tambahan karena program hanya menggunakan standard library Python.
@@ -158,7 +158,7 @@ Ciphertext : ...
 
 ```
 uts_kriptografi/
-├── uts_kriptografi1.py   # File utama program
+├── uts_kriptografi.py   # File utama program
 ├── requirements.txt       # Daftar dependensi (stdlib only)
 └── README.md              # Dokumentasi ini
 ```
